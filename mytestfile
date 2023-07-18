@@ -1,0 +1,3 @@
+Here we understand to handle any kind of failure which Is happening in our data pipeline
+Suppose you have a pipeline which is running daily ,suppose any kind of failure is happening so manually, you have to go and check to handle that kind of scenario we can 
+Create an EMAIL ALERT
